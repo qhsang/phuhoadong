@@ -10,7 +10,7 @@ export const OrganList = () => {
     <section className="py-12 px-4">
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold text-center mb-8 text-foreground">
-          CÁC CỔ QUAN HÀNH CHÍNH
+          CÁC TRỤ SỞ CƠ QUAN
         </h2>
         <div className="grid md:grid-cols-3 gap-6">
           {coQuan.map((organ) => (
