@@ -23,11 +23,11 @@ export const Header = () => {
         </div>
         <div className="mt-6 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
           <div className="bg-white/10 backdrop-blur-sm rounded-lg p-3">
-            <div className="text-2xl font-bold">59,751</div>
+            <div className="text-2xl font-bold">59.751</div>
             <div className="text-sm opacity-90">km²</div>
           </div>
           <div className="bg-white/10 backdrop-blur-sm rounded-lg p-3">
-            <div className="text-2xl font-bold">97,766</div>
+            <div className="text-2xl font-bold">97.766</div>
             <div className="text-sm opacity-90">người</div>
           </div>
           <div className="bg-white/10 backdrop-blur-sm rounded-lg p-3">
