@@ -8,7 +8,7 @@ export const MapSection = () => {
         <div className="flex justify-center">
           <div className="relative max-w-4xl w-full">
             <img 
-              src="./map.png"
+              src="/map.png"
               alt="Bản đồ xã Phú Hòa Đông, TP.HCM"
               className="w-full h-auto rounded-lg shadow-elevation"
             />
